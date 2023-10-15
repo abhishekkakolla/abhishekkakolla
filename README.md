@@ -1,2 +1,2 @@
-[My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=abhishekkakolla&count_private=true&theme=tokyonight&showicons=true)]()
-[[My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkakolla&langs_count=5&theme=tokyonight)]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekkakolla)](https://github.com/abhishekkakolla/abhishekkakolla)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkakolla)](https://github.com/abhishekkakolla/abhishekkakolla)
